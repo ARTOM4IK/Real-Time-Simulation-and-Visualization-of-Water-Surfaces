@@ -12,7 +12,7 @@
 
 ---
 
-## ⚠ Important Notes
+## Important Notes
 
 This repository is a **mirror** of a project originally developed in a private Perforce repository. As such:
 
@@ -31,6 +31,8 @@ Tough Water Rendering (TWR) is a high-performance graphics demonstration and res
 - **Deferred rendering pipeline** – G‑buffer, multi‑pass lighting, shadow mapping
 - **Compute shader acceleration** – matrix transformations and SPH fluid simulation
 - **Modular architecture** – unit and scene system for rapid prototyping
+
+A project presentation video delivered at the conference is available at the following link: https://www.youtube.com/watch?v=B5Pa8AALTZo
 
 ---
 
